@@ -21,6 +21,9 @@ The "in-house" datasets can be obtained in the following URLs:
  * **MS dataset:** https://osf.io/b64e5/
  * **Tranco Web TLS 1.2 & TLS 1.3 dataset:** https://osf.io/zq9vs/
 
+The anonymized preprocessed UCNet dataset is available here, for validation purposes:
+ * **University Network Traffic:** https://osf.io/x6yjg/
+
 You can find further details on each one on their corresponding pages.  
 Feel free to use these datasets for other experiments. If you do, you must include a citation of our work.
 ___
@@ -34,3 +37,5 @@ If you wish to use the MTA or DoHBrw datasets in your research, please use their
  - **MTA:** https://malware-traffic-analysis.net
  - **DoHBrw:** https://www.unb.ca/cic/datasets/dohbrw-2020.html
 
+___
+This work was funded by *Fundação para a Ciência e Tecnologia (FCT)* through a research grant 2021.08532.BD.
